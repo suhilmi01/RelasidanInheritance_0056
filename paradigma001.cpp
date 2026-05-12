@@ -24,4 +24,4 @@ public:
 int main() {
     Mahasiswa mhs(12, "joko", 90.5);
     return 0;
-}
+};
